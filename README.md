@@ -11,7 +11,7 @@ Thank you for providing me an opportunity with the assignment
 5. I used @testing-library which is my favorite for unit testing because how it tests the functionality over the implementation
 6. I appropriately added aria-label and tab-indexes for accessibility users
 7. I used all latest ES6 features by let,const, string literals, de-structuring, arrow functions where ever necessary
-8. I used plain CSS with inline styling for state depended styles, but a [styled Component](https://styled-components.com/), then I thought it would be a overkill for a small use case.
+8. I used plain CSS with inline styling for state depended styles, but a [styled Component](https://styled-components.com/) would be nice to have, then I thought it would be a overkill for a small use case.
 9. I added testId for automation frameworks to pick for automation testing.
 
 # App Preview
