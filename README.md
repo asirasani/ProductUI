@@ -1,5 +1,3 @@
-# Project Setup
-
 # Thank you
 
 Thank you for providing me an opportunity with the assignment
