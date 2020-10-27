@@ -13,8 +13,7 @@ Thank you for providing me an opportunity with the assignment
 7. I used all latest ES6 features by let,const, string literals, de-structuring, arrow functions where ever necessary
 8. I used plain CSS with inline styling for state depended styles, but a [styled Component](https://styled-components.com/) would be nice to have, then I thought it would be a overkill for a small use case.
 9. I added testId for automation frameworks to pick for automation testing.
-10. As suggested, I used direct dom manipulation to show and hide the carousal in combination of react props, I could have used addeded the classnames conditionally instead of direct dom manipulation but i followed guidelines of assignment and did not depend on framework to do the dom manipulation, but this is a anti pattern in react on direct dom manipulation, react does not directly manipulate the dom but uses VDOm internally, in a production ready application I would not do this as this can create inconsistency in dom structure
-
+10. As suggested, I used direct dom manipulation to show and hide the carousal in combination of react props.
 # App Preview
 
 ![App Preview](https://github.com/asirasani/ProductUI/blob/master/Preview.gif)
